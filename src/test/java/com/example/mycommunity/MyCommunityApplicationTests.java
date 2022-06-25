@@ -9,6 +9,7 @@ class MyCommunityApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("new pull");
     }
 
 }
